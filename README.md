@@ -4,16 +4,15 @@
 
 # Hi there 👋
 
+Welcome to my Github profile filled with random project
+
 ## Tech and Tools
 
-##### Current favourites
+<!-- in no particular order  -->
 
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat&logo=Svelte)
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-black?style=flat&logo=Svelte)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js&logoColor=white)
-
-##### Other tools I use
-
 ![Html5](https://img.shields.io/badge/-HTML-black?style=flat&logo=Html5)
 ![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=2965f1)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=Javascript)
@@ -24,7 +23,9 @@
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=Express)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![Vue.js](https://img.shields.io/badge/-Vue-black?style=flat&logo=Vue.js)
+![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=flat&logo=nuxt.js)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity)
+![Godot](https://img.shields.io/badge/-Godot-black?style=flat&logo=godot-engine)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=arduino)
 
 ## Stats
