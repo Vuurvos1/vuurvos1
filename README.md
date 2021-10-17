@@ -4,7 +4,7 @@
 
 # Hi there 👋
 
-Welcome to my Github profile filled with random project
+Welcome to my Github profile filled with random projects
 
 ## Tech and Tools
 
