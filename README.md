@@ -2,16 +2,14 @@
   <img src="./img/fan.gif" alt="Fan" align="center">
 </div>
 
-# Hi there 👋
+### 👋 Hi there
 
-Welcome to my Github profile filled with random projects
+I'm currently working on a bunch of random projects, mainly frontend related. Also Raccoons are kinda funky 🦝
 
-## Tech and Tools
+#### Tech and Tools
 
-<!-- in no particular order  -->
-
-![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat&logo=Svelte)
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-black?style=flat&logo=Svelte)
+![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat&logo=Svelte)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js&logoColor=white)
 ![Html5](https://img.shields.io/badge/-HTML-black?style=flat&logo=Html5)
 ![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=2965f1)
@@ -22,13 +20,13 @@ Welcome to my Github profile filled with random projects
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=Mongodb)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=Express)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
-![Vue.js](https://img.shields.io/badge/-Vue-black?style=flat&logo=Vue.js)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=flat&logo=nuxt.js)
+![Vue.js](https://img.shields.io/badge/-Vue-black?style=flat&logo=Vue.js)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity)
 ![Godot](https://img.shields.io/badge/-Godot-black?style=flat&logo=godot-engine)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=arduino)
 
-## Stats
+#### Stats
 
 <p>
   <img align="left" width="420" height="165" src="https://github-readme-stats.vercel.app/api?username=vuurvos1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="https://github.com/Vuurvos1/github-readme-stats">
@@ -45,15 +43,3 @@ Welcome to my Github profile filled with random projects
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
   <img src="./img/ie_logo.gif" alt="Microsoft Internet Explorer" height="30"/>
 </div>
-
-<!--
-**Vuurvos1/vuurvos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: Racoons are amazing 🦝
--->
