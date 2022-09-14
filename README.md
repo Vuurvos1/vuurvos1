@@ -4,9 +4,10 @@
 
 ### 👋 Hi there
 
-I'm currently working on a bunch of random projects, mainly frontend related. Also Raccoons are kinda funky 🦝
+Welcome to my GitHub profile where I work on a bunch of random (mostly front end related) projects. You can check out some of my work on my [portfolio](https://schelpkikker.nl) or have a look around my GitHub profile.
+Also, Raccoons are kinda funky 🦝
 
-#### Tech and Tools
+#### Technologies & Tools
 
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-black?style=flat&logo=Svelte)
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat&logo=Svelte)
@@ -31,15 +32,5 @@ I'm currently working on a bunch of random projects, mainly frontend related. Al
 <p>
   <img align="left" width="420" height="165" src="https://github-readme-stats.vercel.app/api?username=vuurvos1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="https://github.com/Vuurvos1/github-readme-stats">
   
-  <a href="https://github.com/Vuurvos1/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuurvos1&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515" alt="https://github.com/Vuurvos1/github-readme-stats">
-  </a>
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuurvos1&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515" alt="https://github.com/Vuurvos1/github-readme-stats">
 </p>
-
-<!-- Footer -->
-<div align="center">
-  <img src="./img/notepad.gif" alt="Site created with Notepad" height="30" />
-  <!-- img spacing -->
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src="./img/ie_logo.gif" alt="Microsoft Internet Explorer" height="30"/>
-</div>
