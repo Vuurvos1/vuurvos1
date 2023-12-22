@@ -4,7 +4,7 @@
 
 ### 👋 Hi there
 
-Welcome to my GitHub profile where I work on a bunch of random (mostly front end related) projects. You can check out some of my work on my [portfolio](https://schelpkikker.nl) or have a look around my GitHub profile.
+Welcome to my GitHub profile where I work on a bunch of random (mostly front-end related) projects. You can check out some of my work on my [portfolio](https://schelpkikker.nl) or have a look around my GitHub profile.
 Also, raccoons are kinda funky 🦝
 
 #### Technologies & Tools
